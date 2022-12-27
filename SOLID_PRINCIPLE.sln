@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeSRP", "YoutubeSRP\YoutubeSRP.csproj", "{7E8649AC-E570-4D3D-9903-F6EDD107BE5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube_OCP_DI", "Youtube_OCP\Youtube_OCP_DI.csproj", "{3AC7817A-E76C-4599-A6EA-451CCB6300A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7E8649AC-E570-4D3D-9903-F6EDD107BE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E8649AC-E570-4D3D-9903-F6EDD107BE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E8649AC-E570-4D3D-9903-F6EDD107BE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC7817A-E76C-4599-A6EA-451CCB6300A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC7817A-E76C-4599-A6EA-451CCB6300A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC7817A-E76C-4599-A6EA-451CCB6300A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC7817A-E76C-4599-A6EA-451CCB6300A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

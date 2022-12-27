@@ -29,7 +29,7 @@ namespace Youtube_OCP_DI
             //customerDal.Add(database);
 
             _customerDal.Add();
-        } 
+        }
     }
     interface ICustomerDal
     {
